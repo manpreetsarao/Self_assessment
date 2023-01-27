@@ -8,4 +8,4 @@ Self_assessment for final project
 ## Team Assessment
 ### we have continuous communication through slack, zoom and Team meetings. The biggest challenge for our team was timing everyone has different time availability. To overcome this, we used slack and look for availability for everyone. The strength as a team was sharing the workload and helping each other throughout the project.
 ## Summary of project
-Our project was predicting increase in rents and social Security amount. For this, we used time series analysis. We predict the social and rents amount up to 3 years ahead.
+### Our project was predicting increase in rents and social Security amount. For this, we used time series analysis. We predict the social and rents amount up to 3 years ahead.
